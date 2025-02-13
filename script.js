@@ -73,6 +73,8 @@ function captureAndShare() {
 							type: "image/jpeg",
 						}),
 					],
+					title: "Valentine Response",
+					text: message,
 				})
 			) {
 				navigator
